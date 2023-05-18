@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I have just completed my training as a data scient
 You can find me at:
 
 📧 Email: hnavarro.data@gmail.com
-💼 LinkedIn: in/ helen-navarro-001a4b1ba
+
+💼 LinkedIn: in/helen-navarro-001a4b1ba
 
 I'm actively seeking exciting opportunities in the field of data science and data analysis. If you have any collaboration, project, or advice, I would be delighted to hear from you!
 
