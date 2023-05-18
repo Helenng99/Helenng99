@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Helenng99/Banner/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/Helenng99/Banner/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 
 # Hello! 👋 I'm Helen 
 
