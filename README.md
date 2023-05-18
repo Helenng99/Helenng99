@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/Helenng99/Banner/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 # Hello! 👋 I'm Helen 
 
 📊 Data Analyst | 🧪 Data Scientist | 🌍 Passionate about data science
