@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hello! 👋 I'm Helen 
 
-<!--
-**Helenng99/Helenng99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | 🧪 Data Scientist | 🌍 Passionate about data science
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I have just completed my training as a data scientist and I'm excited to start my career in the fascinating world of data. Here you will find a showcase of my projects and work completed during my academic training. Take a look and feel free to explore!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- 🎓 Master's Degree in Data Science, Assembler Institute of Technology
+- 🎓 Higher Degree in Clinical and Biomedical Laboratory, Instituto Superior de Formación Profesional Sanitaria Claudio Galeno.
+- 🎓 Basic knowledge of mathematics and statistics obtained through completing the first year of Agri-Food Engineering at Polytechnic University of Valencia.
+
+## 📚 Skills
+- 💡 Data Analysis
+- 📊 Data Visualization
+- 🤖 Machine Learning
+- 🧮 Statistics
+- 💻 Programming in Python, R, and SQL
+
+
+## 🖥️ Languages and Tools
+- Jupyter Notebook
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- R
+- Scikit-learn
+- TensorFlow
+- Power BI
+- MySQL
+- MongoDB
+- Neo4j
+
+## 📫 Contact
+You can find me at:
+
+📧 Email: hnavarro.data@gmail.com
+💼 LinkedIn: in/ helen-navarro-001a4b1ba
+
+I'm actively seeking exciting opportunities in the field of data science and data analysis. If you have any collaboration, project, or advice, I would be delighted to hear from you!
+
+Thank you for visiting my GitHub profile! Have a great day! 😄
