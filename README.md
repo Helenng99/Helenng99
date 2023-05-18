@@ -2,7 +2,7 @@
 
 # Hello! 👋 I'm Helen 
 
-📊 Data Analyst | 🧪 Data Scientist | 🌍 Passionate about data science
+📊 Data Analyst | 🧪 Data Scientist 
 
 Welcome to my GitHub profile! I have just completed my training as a data scientist and I'm excited to start my career in the fascinating world of data. Here you will find a showcase of my projects and work completed during my academic training. Take a look and feel free to explore!
 
